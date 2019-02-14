@@ -1,0 +1,19 @@
+{
+  "name": "initiative",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^11.9.3",
+    "@types/terminal-kit": "^1.26.0"
+  },
+  "dependencies": {
+    "terminal-kit": "^1.26.11",
+    "typescript": "^3.3.3"
+  }
+}
